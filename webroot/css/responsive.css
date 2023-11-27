@@ -1,0 +1,63 @@
+@media screen and (max-width: 1020px) {
+  .daw {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+  }
+
+  header > span {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    border-radius: 9999px;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    font-weight: 900;
+    color: #ffffff;
+  }
+
+  .contenido {
+    padding-top: 5rem;
+  }
+  .contenido h1 {
+    font-size: 36px;
+  }
+
+  .contenido h2 {
+    font-size: 24px;
+  }
+
+  .contenido p {
+    font-size: 14px;
+  }
+
+  .items a {
+    padding: 5px 15px;
+    font-size: 12px;
+  }
+
+  footer {
+    top: 0;
+    right: 0;
+  }
+
+  .enlaces-footer {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    display: flex;
+    gap: 2rem;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+
+  img {
+    width: 250px;
+    height: 280px;
+  }
+}
